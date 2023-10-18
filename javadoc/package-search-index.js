@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.gameday.application"},{"l":"com.gameday.constants"},{"l":"com.gameday.controller"},{"l":"com.gameday.exception"},{"l":"com.gameday.model"},{"l":"com.gameday.repository"},{"l":"com.gameday.service"},{"l":"com.gameday.util"}];updateSearchResults();

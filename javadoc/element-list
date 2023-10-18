@@ -1,0 +1,8 @@
+com.gameday.application
+com.gameday.constants
+com.gameday.controller
+com.gameday.exception
+com.gameday.model
+com.gameday.repository
+com.gameday.service
+com.gameday.util
